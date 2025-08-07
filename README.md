@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 <p align="center">
-  🎓 I'm a <strong>3rd year B.Tech student</strong> in <strong>Electronics and Computer Engineering</strong> at <br />
+  🎓 I'm a <strong>Final year B.Tech student</strong> in <strong>Electronics and Computer Engineering</strong> at <br />
   <strong>Progressive Education Society’s Modern College of Engineering, Pune</strong><br />
   📈 <strong>CGPA:</strong> 9.48/10 (T.E.)
 </p>
