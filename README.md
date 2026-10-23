@@ -1,4 +1,8 @@
-# <div align="center"> Hello !! I'm Abhijeet Khomane</div>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=80&lines=Abhijeet+Khomane" alt="Abhijeet Khomane" />
+
+</div>
 # <div align="center"> ELECTRONIC & COMPUTER ENGINEER </div>
 
 <div align="center">
