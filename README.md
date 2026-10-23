@@ -1,11 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=80&lines=Abhijeet+Khomane" alt="Abhijeet Khomane" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&height=80&lines=ABHIJEET+KHOMANE" alt="Abhijeet Khomane" />
 </div>
 # <div align="center"> ELECTRONIC & COMPUTER ENGINEER </div>
 
 <div align="center">
+
+
+
+
   
   **Data Analytics  | AI & IoT Innovator | Business Intelligence Enthusiast**
   
